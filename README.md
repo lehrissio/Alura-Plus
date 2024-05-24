@@ -8,7 +8,7 @@
   * Flexbox
 
 ## Cursos Relacionados:
-Este projeto foi desenvolvido durante os seguintes cursos da [Alura](https://www.alura.com.br/):
+Este projeto foi desenvolvido durante o seguinte curso da [Alura](https://www.alura.com.br/):
 
 
 
