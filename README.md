@@ -1,6 +1,6 @@
 # Projeto - Alura+
 
-![Design sem nome (1)](https://github.com/lehrissio/alura-plus/assets/103052994/39d1ea61-076b-447b-b062-fcbd4953bd3b)
+![alura+](https://github.com/lehrissio/alura-plus/assets/103052994/6bfa716e-63d9-4624-aa7d-20ce61e3f871)
 
 
 ## Ferramentas Utilizadas
