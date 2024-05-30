@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto - Alura+</h1>
 
-<p align="center"> Foi o segundo projeto desenvolvido durante a Formação da Alura <a href="https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR">A partir do Zero: HTML e CSS para Projetos Web</a>. Foram utilizados os conceitos de flexbox, display grid e responsividade para diversos tamanhos de tela. O design no Figma foi utilizado como base para o projeto. Apresenta plataforma de straeming fictícia chamada Alura+.</p>
+<p align="center"> Foi o segundo projeto desenvolvido durante a Formação da Alura <a href="https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR">A partir do Zero: HTML e CSS para Projetos Web</a>. Foram utilizados os conceitos de flexbox, display grid e responsividade para diversos tamanhos de tela. O design no Figma foi utilizado como base para o projeto. Apresenta a temática de uma plataforma de straeming fictícia chamada Alura+.</p>
 
 <br>
 <br>
