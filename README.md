@@ -1,35 +1,51 @@
-# Projeto - Alura+
+<h1 align="center"> Projeto - Alura+</h1>
 
-![alura+](https://github.com/lehrissio/alura-plus/assets/103052994/6bfa716e-63d9-4624-aa7d-20ce61e3f871)
+<p align="center"> Foi o segundo projeto desenvolvido durante a Formação da Alura <a href="https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR">A partir do Zero: HTML e CSS para Projetos Web</a>. Foram utilizados os conceitos de flexbox, display grid e responsividade para diversos tamanhos de tela. O design no Figma foi utilizado como base para o projeto. Apresenta plataforma de straeming fictícia chamada Alura+.</p>
 
-## Ferramentas Utilizadas
+<br>
+<br>
+
+<div align="center">
+  <a target="_blank" href="https://alura-plus-ashy-three.vercel.app/">
+          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+  </a>
+</div>
+
+<div align="center" >
+<h3>Página completa do projeto</h3><br>
+  <a target="_blank" href="https://alura-plus-ashy-three.vercel.app/">
+  <img width="50%" src="./assets/print_desktop.png" alt="alura+">
+  </a>
+</div>
+<br>
+
+## 🚀 Tecnologias
 * HTML e CSS
 * Flexbox
+* Display Grid
 
-## Cursos Relacionados
-Este projeto foi desenvolvido durante o seguinte curso da [Alura](https://www.alura.com.br/):
+<br>
+
+## 💻 Projeto
+Para visualizar a última vesão do projeto clique abaixo:
+<br>
+<br>
+Visite o [projeto]([https://portifolio-alura-ten-eosin.vercel.app/](https://alura-plus-ashy-three.vercel.app/)) online.
+<br>
+<br>
+
+## 📚 Cursos Relacionados
 
 ### HTML e CSS: Praticando HTML/CSS
 * Instrutora: Mônica Hillman
 * Certificado: [Ver certificado](https://cursos.alura.com.br/certificate/8d188454-87cf-4dee-a57a-42702f6d7f64?lang=pt_BR)
+<br>
 
-#### Conteúdos Aprendidos
-- Nomeação de classes com o padrão BEM (Block Element Modifier)
-- Diferenças entre `<button>` e `<a>`
-- Uso de unidades de medida responsivas em
-- Propriedades CSS `display: inline` e `display: block`
-- Utilização de CSS Grid e `grid-template-columns` para layout
-- Inspeção de grids na tela com ferramentas de desenvolvedor do navegador (F12)
-- Importação de fontes externas no HTML
-- Afastamento de elementos dos cantos da tela e entre si
-- Diferenças entre `margin` e `padding`
-- Diversas formas de determinar valores e direções das margens com `margin`
-- Reutilização de estilos através de classes
-- Atribuição de múltiplas classes para estilizações adicionais
-- Uso de Flexbox: conceitos e aplicações
-- Flex-containers, flex-items, e `flex-direction`
-- Uso de pseudo-classes CSS: `hover` e `active`
-- Edição de código no VSCode Web
-- Envio de alterações para um repositório existente
+---
 
-(Curso pertencente à Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)")
+Feito com muito ♥
+
+Obrigado por visitar meu Github ♥
+Me dê um "FOLLOW" que retribuo, vamos criar novas conexões 😊
+
+Até a próxima! 👋😊
