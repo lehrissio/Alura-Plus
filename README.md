@@ -30,7 +30,7 @@
 Para visualizar a última vesão do projeto clique abaixo:
 <br>
 <br>
-Visite o [projeto]([https://portifolio-alura-ten-eosin.vercel.app/](https://alura-plus-ashy-three.vercel.app/)) online.
+Visite o [projeto](https://alura-plus-ashy-three.vercel.app/) online.
 <br>
 <br>
 
