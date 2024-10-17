@@ -7,7 +7,7 @@
 
 <div align="center">
   <a target="_blank" href="https://alura-plus-ashy-three.vercel.app/">
-          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+          <img width="90%" src="https://github.com/user-attachments/assets/a2898169-9120-4a86-a40d-6851d91a8648" alt="portifolio">
   </a>
 </div>
 
